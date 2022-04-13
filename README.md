@@ -27,6 +27,7 @@ React frontend. NodeJS backend (to hide api key). [Omdb API.](https://www.omdbap
 
 # My own additions to this project:
 
+- On page load up, a random title will be searched for from an array of several titles
 - Added a loading wheel in the top-left corner. Visible during api fetches.
 - Used onSubmit event to submit search as opposed to the tutorial's onClick
 - For the 'no results' message, I also included the title that was searched for. My message: 'No results for 'exampletitle'.
