@@ -40,6 +40,7 @@ React frontend. NodeJS backend (to hide api key). [Omdb API.](https://www.omdbap
 
 - Netlify is amazing. Scary good.
   - Deployment was a breeze...default settings worked perfectly! After I chose which github repo to deploy, I only had to do one key thing: Add the environment variable (the api key). Hit deploy. Change site name. DONE.
+  - QUESTION: How did Netlify handle the localhost endpoint that connects my frontend to my backend? Did Netlify insert their own domain to host my backend? A mystery so far.
 
 # Next Steps
 
